@@ -31,7 +31,7 @@ Saved/
 *.tmp
 *.swp
 
-# Ignore cooked content (if used later)
+# Ignore cooked content
 Build/
 Cooked/
 Plugins/*/Intermediate/
@@ -49,6 +49,9 @@ desktop.ini
 # Track project-specific files
 !EchoesOfTheObserver.uproject
 !Config/
+!Content/Input/
+!Content/ThirdPerson/
+!Content/HUD/
 !Docs/
 !Logs/
 !README.md
