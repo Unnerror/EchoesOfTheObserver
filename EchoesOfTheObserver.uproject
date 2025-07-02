@@ -127,6 +127,10 @@
 		{
 			"Name": "MovieSceneAnimMixer",
 			"Enabled": true
+		},
+		{
+			"Name": "SunPosition",
+			"Enabled": true
 		}
 	]
 }
