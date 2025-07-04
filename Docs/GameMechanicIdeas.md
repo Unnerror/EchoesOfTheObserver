@@ -15,3 +15,4 @@
 ## Other Mechanics
 - Running section with a visible timer
 - Limited directional input to “guide” a character during sequences
+- Find "key" activate platform subquest
