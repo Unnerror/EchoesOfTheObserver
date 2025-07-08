@@ -7,7 +7,7 @@
 - Successfully retrieved NoteIndex from data table based on key input
 - Created and assigned custom InputMappingContext dynamically on overlap trigger
 - Connected note data to triggering system (in progress)
-- Recorded a working screen demo of key-to-note functionality (demo: KeyToNote.mp4)
+- Recorded a working screen demo of key-to-note functionality (demo: Media/KeyToNote.mp4)
 - Minor bug tracking and UI cleanup
 
 ## Next Steps

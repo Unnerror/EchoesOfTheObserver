@@ -1,7 +1,7 @@
-##Day 9 Log – July 3, 2025
+## Day 9 Log – July 3, 2025
 
 # Tasks Completed
-- Finalized full Key To Note mechanic blueprint flow (screenshots: KeyToNote_1.png, KeyToNote_2.png, KeyToNote_3.png, KeyToNote_4.png, KeyToNote_5.png).
+- Finalized full Key To Note mechanic blueprint flow (screenshots: Media/KeyToNote_1.png, Media/KeyToNote_2.png, Media/KeyToNote_3.png, Media/KeyToNote_4.png, Media/KeyToNote_5.png).
 - Configured transition logic from speed-based progression to pulsating progression once 80% threshold is reached.
 - Developed system to accumulate time while typing remains in correct tempo range using a .2s tick loop.
 - Created win condition logic: 5s of correct tempo → triggers win.
