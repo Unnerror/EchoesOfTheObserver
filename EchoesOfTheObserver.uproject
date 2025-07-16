@@ -163,6 +163,22 @@
 		{
 			"Name": "PCGBiomeCore",
 			"Enabled": true
+		},
+		{
+			"Name": "ChaosModularVehicleExamples",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosVehiclesPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosModularVehicle",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosMover",
+			"Enabled": true
 		}
 	]
 }
