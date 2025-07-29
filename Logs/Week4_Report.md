@@ -1,6 +1,10 @@
 # Week 4 Report – July 14–18, 2025
 
-# Summary of Work
+Project: UE5 game "Echoes of the Observer"
+Total Hours: 40
+Student: Danila Sergienko
+
+## Summary of Work
 - Montreal-to-Space Scene Refinement:
   - Completed structural planning for Montreal-to-Space transition by integrating both locations into a single persistent level.
   - Abandoned level streaming for this sequence due to instability and lack of reliability across shots.
@@ -22,14 +26,14 @@
   - Tuned bounds, emission rate, and material transparency to produce soft visual atmosphere effect.
   - Investigated particle visibility loss when moving the camera far from origin — determined fixed bounds and culling were factors.
 
-# Skills & Tools Practiced
+## Skills & Tools Practiced
 - Niagara System configuration for large-scale effects
 - Material animation debugging in Sequencer
 - Blueprint-based level streaming
 - Sequencer visibility control and organizational structuring
 - Fog, atmosphere, and cloud transition design for cinematic sequences
 
-# Issues Resolved
+## Issues Resolved
 - Sequencer could not visually update Niagara material changes in-editor; resolved via scrubbing/workflow understanding.
 - Replaced unreliable level streaming with a unified level setup and visibility toggling.
 - Clarified engine behavior of Level Visibility (also removes from World Outliner).

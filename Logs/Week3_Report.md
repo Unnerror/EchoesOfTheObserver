@@ -1,5 +1,9 @@
 # Week 3 Report - July 7–10, 2025
 
+Project: UE5 game "Echoes of the Observer"
+Total Hours: 32
+Student: Danila Sergienko
+
 ## Summary of Work
 - Memory Scene Integration
   - Implemented the first interactive Memory Scene triggered by the “Key-to-Note” input mechanic.

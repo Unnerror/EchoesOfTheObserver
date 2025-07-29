@@ -1,6 +1,6 @@
 ## Day 21 Log – July 22, 2025
 
-#Tasks Completed
+# Tasks Completed
 - Volumetric Cloud Adjustment (Continued):
   - Refined cloud material properties and spatial placement to enhance visual fidelity during altitude transitions.
   - Worked on dissipation and vertical noise functions to simulate gradual thinning of atmosphere.
